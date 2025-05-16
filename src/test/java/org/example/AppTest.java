@@ -15,7 +15,7 @@ public class AppTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://animish0076.github.io/jenkinsdemo/");// here enter static website URL from your GITHUB
+        driver.get("https://animish0076.github.io/jenkinsdemo/");// here enter static webs// ite URL from your GITHUB
     }
 
     @Test
